@@ -1,1 +1,0 @@
-export {SnowflakeJs} from "./core"
